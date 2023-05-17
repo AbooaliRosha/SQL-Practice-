@@ -18,4 +18,4 @@ SELECT NAME FROM CITY WHERE POPULATION > 120000 AND COUNTRYCODE = 'USA';
 PART C)
 Query all columns (attributes) for every row in the CITY table.
 */
-Query all columns (attributes) for every row in the CITY table.
+SELECT * FROM CITY;
